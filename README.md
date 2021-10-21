@@ -1,6 +1,12 @@
 ### Date created
 2021/10/21
 
+### Author
+Kelso Todd
+
+### Project Purpose
+The Bikeshare project and this repo was created in alignment to the requirements to comeplete the [_Programming for Data Science with Python Nanodegree Program_](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104) through Udacity.
+
 ### Project Title
 Bikeshare Data Exploration for Chicago, Washington, New York City
 
