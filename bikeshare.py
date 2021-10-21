@@ -13,13 +13,22 @@ pd.set_option('display.expand_frame_repr', False)
 
 # %%
 def print_dash(count):
-    """Prints out a string to demarcate a title"""
-    
+    """Prints out a string to demarcate a title
+
+    Returns:
+        Nothing
+    """
+
     output = "-" * count
     print(output)
 
 def print_time(start_time, end_time):
-    """Prints out the duration a function took to run"""
+    """Prints out the duration a function took to run
+
+    Returns:
+        Nothing
+    """
+    
     print(f"\nThis took {(end_time - start_time):.2f} seconds.")
     print_dash(40)
 
@@ -191,5 +200,3 @@ def main():
 
 if __name__ == "__main__":
 	main()
-
-
