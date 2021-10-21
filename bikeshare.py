@@ -3,10 +3,6 @@
 # %%
 import time
 import pandas as pd
-import numpy as np
-from datetime import datetime
-from dateutil import parser
-from calendar import month
 
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
